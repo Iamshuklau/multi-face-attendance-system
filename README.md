@@ -316,10 +316,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Utkarsh Shukla**  
 *Computer Science Engineering Student*
 
-- **Email**: [utkarsh.shukla@example.com](mailto:utkarsh.shukla@example.com)
-- **LinkedIn**: [linkedin.com/in/utkarsh-shukla](https://linkedin.com/in/utkarsh-shukla)
-- **GitHub**: [github.com/utkarsh-shukla](https://github.com/utkarsh-shukla)
-- **Project Repository**: [github.com/utkarsh-shukla/multi-face-attendance-system](https://github.com/utkarsh-shukla/multi-face-attendance-system)
+- **Email**: [iamshuklau@gmail.com](mailto:iamshuklau@gmail.com)
+- **LinkedIn**: [linkedin.com/in/iamshuklau](https://linkedin.com/in/iamshuklau)
+- **GitHub**: [github.com/iamshuklau](https://github.com/iamshuklau)
+- **Project Repository**: [github.com/iamshuklau/multi-face-attendance-system](https://github.com/iamshuklau/multi-face-attendance-system)
 
 ---
 
