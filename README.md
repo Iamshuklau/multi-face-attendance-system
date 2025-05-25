@@ -334,10 +334,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/utkarsh-shukla/multi-face-attendance-system)
-![GitHub forks](https://img.shields.io/github/forks/utkarsh-shukla/multi-face-attendance-system)
-![GitHub issues](https://img.shields.io/github/issues/utkarsh-shukla/multi-face-attendance-system)
-![GitHub license](https://img.shields.io/github/license/utkarsh-shukla/multi-face-attendance-system)
+![GitHub stars](https://img.shields.io/github/stars/iamshuklau/multi-face-attendance-system)
+![GitHub forks](https://img.shields.io/github/forks/iamshuklau/multi-face-attendance-system)
+![GitHub issues](https://img.shields.io/github/issues/iamshuklau/multi-face-attendance-system)
+![GitHub license](https://img.shields.io/github/license/iamshuklau/multi-face-attendance-system)
 
 **⭐ If you found this project helpful, please give it a star!**
 
