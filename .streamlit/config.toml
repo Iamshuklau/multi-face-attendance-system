@@ -1,0 +1,10 @@
+
+[global]
+suppressDeprecationWarnings = true
+showWarningOnDirectExecution = false
+
+[logger]
+level = "error"
+
+[client]
+showErrorDetails = false
