@@ -328,7 +328,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenCV Community** for computer vision libraries
 - **Streamlit Team** for the amazing web framework
 - **face_recognition Library** by Adam Geitgey
-- **College Faculty** for guidance and support
 - **Open Source Community** for inspiration and resources
 
 ---
