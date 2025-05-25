@@ -234,19 +234,19 @@ multi-face-attendance-system/
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](docs/images/dashboard.png)
+![Dashboard](dashboard.png)
 *Real-time attendance dashboard with analytics*
 
 ### Face Recognition
-![Face Recognition](docs/images/face-recognition.png)
+![Face Recognition](face-recognition.png)
 *Live face recognition in action*
 
 ### Student Management
-![Student Management](docs/images/student-management.png)
+![Student Management](student-management.png)
 *Student registration and photo management*
 
 ### Analytics
-![Analytics](docs/images/analytics.png)
+![Analytics](analytics.png)
 *Comprehensive attendance analytics*
 
 ## 📊 Performance Metrics
